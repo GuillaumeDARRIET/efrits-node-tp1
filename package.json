@@ -1,0 +1,22 @@
+{
+  "name": "efrits-node-tp1",
+  "version": "1.0.0",
+  "description": "A lite chat app with backend and frontend",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeDARRIET/efrits-node-tp1.git"
+  },
+  "keywords": [
+    "efrits",
+    "lesson",
+    "tp1"
+  ],
+  "author": "Guillaume Darriet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillaumeDARRIET/efrits-node-tp1/issues"
+  },
+  "homepage": "https://github.com/GuillaumeDARRIET/efrits-node-tp1#readme"
+}
